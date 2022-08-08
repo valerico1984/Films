@@ -1,0 +1,28 @@
+#login{
+    width: 450px;
+}
+
+.button{
+    width: 100px;
+}
+
+.link{
+    text-decoration: none;
+    color: white;
+}
+
+.favourite_button{
+
+    width:30px;
+    height:30px;
+    background-color: white;
+    border-radius: 30px;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position:absolute;
+    right: 10px;
+    top: 10px;
+    border: none;
+}
